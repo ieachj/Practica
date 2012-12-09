@@ -57,7 +57,7 @@ public class SistemaBancario {
      System.out.println("--------Sistema Bancario-------");
      System.out.println("1.- Cuentas Bancarias");
      System.out.println("2.- Operaciones Bancarias");
-     System.out.println("3.- Reposrtes del Sistema");
+     System.out.println("3.- Reportes del Sistema");
      System.out.println("4.- Salir");
      System.out.println("Seleccione una Opcion:  ");
      return  ( Integer.parseInt(leer.readLine()) );
